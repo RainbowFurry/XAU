@@ -1,0 +1,9 @@
+Games Page refresh button
+Player default load bug fix
+Settings reload button
+misc for other not for only me
+
+groups/partys
+many games does not work...
+Stats
+Friends - rightclick for id or to open games and left click to open user info, extra tab for id lookup for other players 
